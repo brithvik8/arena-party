@@ -1,0 +1,6 @@
+{
+  "name": "PARTY ARENA",
+  "description": "Real-time multiplayer arcade bumper combat brawler for 2-8 players. Create private rooms, configure custom arena modifiers, bump opponents, and claim the championship crown.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
