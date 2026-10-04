@@ -1,6 +1,12 @@
+
+
 # Party Arena
 
 Party Arena is a fast-paced, real-time multiplayer arcade party battle game for 2–8 players built with React, Node.js, Express, and Socket.IO. Players create private rooms, customize combat identities, wait in a tactical multiplayer lobby with configurable arena modifiers, bump opponents across dynamic hazard arenas, survive elimination, and compete for the championship crown.
+
+<br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br>
 
 ---
 
